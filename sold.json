@@ -1,0 +1,20 @@
+{
+    "ANC": {
+        "symbol": "ANC",
+        "price": "1.864",
+        "volume": "7.6022960459821745",
+        "time": 1643086427.012874,
+        "profit": "-0.09599999999999986",
+        "relative_profit_%": "-4.897959183673462%",
+        "id": "test-order",
+        "text": "test-order",
+        "create_time": 1643086427.012904,
+        "update_time": 1643086427.012909,
+        "currency_pair": "ANC_USDT",
+        "status": "closed",
+        "type": "limit",
+        "account": "spot",
+        "side": "sell",
+        "iceberg": "0"
+    }
+}

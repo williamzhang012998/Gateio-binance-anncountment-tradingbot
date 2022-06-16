@@ -1,0 +1,9 @@
+requests>=2.25
+gate_api>=4.22
+PyYAML>=6.0
+
+[testing]
+pytest>=6.0
+pytest-cov>=2.0
+flake8>=3.9
+tox>=3.24

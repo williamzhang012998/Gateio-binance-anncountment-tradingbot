@@ -1,0 +1,73 @@
+{
+    "ANC": {
+        "total_volume": 15.0,
+        "total_amount": 7.6022960459821745,
+        "total_fees": 0.015204592091964349,
+        "orders": [
+            {
+                "_fee_currency": "ANC",
+                "_price": "1.999",
+                "_amount": "7.503751875937969",
+                "_time": 1643086370.703575,
+                "_tp": 2,
+                "_sl": -3,
+                "_ttp": 2,
+                "_tsl": -4,
+                "_id": "test-order",
+                "_text": "test-order",
+                "_create_time": 1643086370.703591,
+                "_update_time": 1643086370.703597,
+                "_currency_pair": "ANC_USDT",
+                "_status": "cancelled",
+                "_type": "limit",
+                "_account": "spot",
+                "_side": "buy",
+                "_iceberg": "0",
+                "_left": "4.9524762381190595",
+                "_fee": "0.0051025512756378184",
+                "_amount_filled": "2.551275637818909"
+            },
+            {
+                "_fee_currency": "ANC",
+                "_price": "1.96",
+                "_amount": "5.051020408163265",
+                "_time": 1643086373.921332,
+                "_tp": 2,
+                "_sl": -3,
+                "_ttp": 2,
+                "_tsl": -4,
+                "_id": "test-order",
+                "_text": "test-order",
+                "_create_time": 1643086373.92135,
+                "_update_time": 1643086373.921356,
+                "_currency_pair": "ANC_USDT",
+                "_status": "closed",
+                "_type": "limit",
+                "_account": "spot",
+                "_side": "buy",
+                "_iceberg": "0",
+                "_left": "0",
+                "_fee": "0.01010204081632653",
+                "_amount_filled": "5.051020408163265"
+            },
+            {
+                "symbol": "ANC",
+                "price": "1.864",
+                "volume": "7.6022960459821745",
+                "time": 1643086427.012874,
+                "profit": "-0.09599999999999986",
+                "relative_profit_%": "-4.897959183673462%",
+                "id": "test-order",
+                "text": "test-order",
+                "create_time": 1643086427.012904,
+                "update_time": 1643086427.012909,
+                "currency_pair": "ANC_USDT",
+                "status": "closed",
+                "type": "limit",
+                "account": "spot",
+                "side": "sell",
+                "iceberg": "0"
+            }
+        ]
+    }
+}
